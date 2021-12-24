@@ -1,0 +1,66 @@
+body {
+  background-color: #f0f2f5;
+}
+.first-heading {
+  width: 350px;
+  height: 80px;
+  margin-top: 20%;
+  margin-right: 80%;
+}
+.second {
+  margin-left: 22%;
+}
+.art {
+  width: 400px;
+  height: 100vh;
+  float: left;
+}
+.art-one {
+  background-color: white;
+  width: 380px;
+  height: 230px;
+  padding: 20px;
+  float: left;
+  align-content: center;
+  margin: 20px;
+}
+.btn {
+  background-color: #42b72a;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  height: 35px;
+  margin-left: 150px;
+  font-weight: bold;
+}
+.btn-one {
+  background-color: #1877f2;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  width: 380px;
+  height: 35px;
+}
+.fields {
+  width: 380px;
+  padding: 4px;
+  border-radius: 5px;
+  border: 1px solid silver;
+}
+
+.link-one {
+  color: #1877f2;
+  margin-left: 150px;
+}
+.lik-two {
+  color: silver;
+}
+.link-three {
+  color: black;
+  margin-left: 70px;
+}
+.link-four {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
